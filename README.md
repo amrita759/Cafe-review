@@ -3,7 +3,7 @@
 
 This is a small web project I made as a 1st year college student.
 The idea is simple: people can write reviews about their favourite cafés in Delhi & Noida.
-When you type your name, café name, review, and rating ⭐ → it instantly shows up on the page (no refresh needed 🚀).
+When you type your name, cafe name, review, and rating ⭐ → it instantly shows up on the page (no refresh needed 🚀).
 
 I also added some scroll animations so the website.
 
@@ -17,7 +17,7 @@ JavaScript → for making the form work and adding smooth effects
 
 ✨ Features
 
-✔️ Write a review about any café in Delhi/Noida
+✔️ Write a review about any cafe in Delhi/Noida
 ✔️ Instantly see your review appear below the form
 ✔️ Responsive design (works on laptop + mobile 📱)
 ✔️ Cool scroll-in animations for sections
