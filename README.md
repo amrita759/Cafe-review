@@ -15,6 +15,8 @@ CSS → for the styling + animations
 
 JavaScript → for making the form work and adding smooth effects
 
+still trying  to learn java script for better
+
 ✨ Features
 
 ✔️ Write a review about any cafe in Delhi/Noida
@@ -38,9 +40,7 @@ Done ✅
 
 Add star-rating system ⭐⭐⭐⭐⭐
 
-Connect with a real database so reviews don’t disappear after reload
-
-Add Google Maps link for each cafe
+Connect with a real database 
 
 🙋 Author
 
